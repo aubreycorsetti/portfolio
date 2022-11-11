@@ -69,12 +69,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-HTML5-plain",
+            "name": "HTML5"
           },
           {
             "class": "devicon-css3-plain",
