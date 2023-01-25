@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #062759;
       opacity: 0.8;
    }
 
@@ -54,12 +54,12 @@ body[data-theme="dark"] {
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: black;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #052555;
       }
       .project-title-settings {
          color: white;
@@ -68,18 +68,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #052555;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #000000 !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #000000 !important;
       }
 
       .vertical-timeline-element-date {
