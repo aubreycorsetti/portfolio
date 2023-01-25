@@ -45,7 +45,7 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
-	background-image: url("https://live.staticflickr.com/5596/14618698680_fa4ddbc09d_b.jpg")
+	background-image: url("https://negativespace.co/wp-content/uploads/2017/04/negative-space-macbook-coffee-code-bokeh-Custom-1.jpg")
 }
 
 header .nav {
@@ -93,6 +93,8 @@ header .nav {
 }
 
 header h1 {
+	border: 5px solid black;
+	background: rgb(128, 128, 128, .5);
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;

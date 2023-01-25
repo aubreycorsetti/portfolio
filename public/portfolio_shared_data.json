@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Aubrey Corsetti",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full-Stack Software Developer" ],
       "social": [
         {
           "name": "github",
@@ -19,6 +19,26 @@
     "skills": {
       "icons": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -28,14 +48,13 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
         {
           "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "ES6",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         }
