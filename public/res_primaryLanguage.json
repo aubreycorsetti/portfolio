@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Corsetti Cooking",
+        "title": "Jenkins Travel Agency",
         "startDate": "2022",
-        "description": "This was my very first site I created with Code Fellows. Using my heritage as inspiration, I created a site where people can find many different recipes as well as some history about Italy.",
+        "description": "This site was inspired by indecisiveness on where to travel. We created an online quiz that generates 4 destinations with quick booking links based on user input/answers. This was possible by using React, JavaScript, CSS, Auth0 and HTML5.",
         "images": [
-          "images/portfolio/hello-world/cooking1.png",
-          "images/portfolio/hello-world/cooking2.png"
+          "images/portfolio/jenkins/jenkins1.png",
+          "images/portfolio/jenkins/jenkins2.png"
         ],
-        "url": "https://github.com/aubreycorsetti/hello-world",
+        "url": "https://aubreycorsetti.github.io/jenkinstravelagency/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Odd Duck",
+        "title": "Can of Books",
         "startDate": "2022",
-        "description": "Project for Code Fellows course 201. I was responsible for creating a site that stores data regarding image views and clicks then displaying them in a graph. I've earned A grade :)",
+        "description": "This site was inspired by a library. Using Auth0, I was able to ensure secure profiles for users where they are able to store all of the books that they've read and giving them the option to add, update and delete their library. To create this site I used Auth0, React, JS, HTML5, CSS, Netlify and MongoDB.",
         "images": [
-          "images/portfolio/odd-duck/duck1.png",
-          "images/portfolio/odd-duck/duck2.png"
+          "images/portfolio/canofbooks/canofbooks.png",
+          "images/portfolio/canofbooks/canofbooks2.png"
         ],
-        "url": "https://github.com/aubreycorsetti/odd-duck",
+        "url": "https://bookcarousel.netlify.app",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -59,14 +59,14 @@
         ]
       },
       {
-        "title": "Final Placeholder",
+        "title": "Datesters",
         "startDate": "2022",
-        "description": "Placeholder for Final",
+        "description": "This site was inspired by dates! Finding a date location within your area or any destination is now made easy. With Datesters you will will to have a fun, interactive time with a name based compatibilty test. You will also be able to save/update and delete any favorited date locations/ideas to the users profile. This was made possible with 2 APIs, React, Auth0, CSS, JavaScript, Netlify, MongoDB, and HTML.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/datesters/datesters1.png",
+          "images/portfolio/datesters/datesters2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://datesters.netlify.app/",
         "technologies": [
           {
             "class": "devicon-HTML5-plain",
