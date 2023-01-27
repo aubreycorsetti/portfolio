@@ -25,6 +25,11 @@
             "name": "JavaScript"
           },
           {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "95"
+          },
+          {
             "class": "devicon-html5-plain",
             "name": "HTML5"
           },
@@ -55,13 +60,22 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS3"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "95"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
         "title": "Datesters",
         "startDate": "2022",
-        "description": "This site was inspired by dates! Finding a date location within your area or any destination is now made easy. With Datesters you will will to have a fun, interactive time with a name based compatibilty test. You will also be able to save/update and delete any favorited date locations/ideas to the users profile. This was made possible with 2 APIs, React, Auth0, CSS, JavaScript, Netlify, MongoDB, and HTML.",
+        "description": "This site was inspired by dates! Finding a date location within your area or any destination is now made easy. With Datesters you will to have a fun, interactive time with a name based compatibilty test. You will also be able to save/update and delete any favorited date locations/ideas to the users profile. This was made possible with 2 APIs, React, Auth0, CSS, JavaScript, Netlify, MongoDB, and HTML.",
         "images": [
           "images/portfolio/datesters/datesters1.png",
           "images/portfolio/datesters/datesters2.png"
@@ -75,6 +89,15 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS3"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "95"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       }
@@ -95,7 +118,9 @@
           "HTML5",
           "CSS3",
           "LINUX",
-          "Nodejs"
+          "Nodejs",
+          "Python",
+          "Django"
         ]
       }
     ]
